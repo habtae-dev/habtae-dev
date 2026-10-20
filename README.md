@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Web Developer & UI/UX Enthusiast
 
-I am a passionate Web Developer with **[X] years of experience** building scalable, high-performance web applications and intuitive user interfaces. I love turning complex problems into elegant, user-friendly digital solutions.
+I am a passionate Web Developer  building scalable, high-performance web applications and intuitive user interfaces. I love turning complex problems into elegant, user-friendly digital solutions.
 
 ---
 
